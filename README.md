@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://github.com/JavadTinatpak">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTinatpak"&theme=cobalt />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavadTinatpak&theme=cobalt" />
 </a>
