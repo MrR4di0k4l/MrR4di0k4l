@@ -1,6 +1,4 @@
-String main()
-
-{
+String main()                                                                                         {
 
      String Me = " [I'm Programmer & Game Developer 💻] 
      
