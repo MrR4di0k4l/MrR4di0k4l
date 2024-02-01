@@ -2,7 +2,7 @@ String main()                                                                   
 
      String Me = " [I'm Programmer & Game Developer 💻] 
      
-                   [I love chemistry ❤] 
+                   [I Love Chemistry ❤] 
                    
                    $#Penetration Testing#$ "
      return "Me";
