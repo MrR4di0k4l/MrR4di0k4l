@@ -10,8 +10,12 @@ String main()                                                                   
 }
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrR4di0k4l&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrR4di0k4l&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrR4di0k4l&show_icons=true&rank_icon=github)
+<div>
+     
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrR4di0k4l&layout=compact&card_width=400)
+</div>
+
 
 
 
