@@ -8,14 +8,14 @@ String main()                                                                   
      return "Me";
   
 }
-<!--- 👋 Hi, I’m @JavadTinatpak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...-->
 
-<!---
-JavadTinatpak/JavadTinatpak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MrR4di0k4l&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrR4di0k4l&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
 
