@@ -14,7 +14,7 @@ String main()                                                                   
   <img height=200 width=500 src="https://github-readme-stats.vercel.app/api?username=MrR4di0k4l&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=MrR4di0k4l&layout=compact&langs_count=8&card_width=310" />
+  <img height=200 width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=MrR4di0k4l&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 
